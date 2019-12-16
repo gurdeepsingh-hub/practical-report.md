@@ -971,7 +971,7 @@ void main()
 `value of n:100`  
  `address of n 804324724`  
  ```
-# PROGRAM No 30:-PROGRAM TO PRINT ADDRESS OF A VARIABLE USING POINTERS
+# PROGRAM No 29:-PROGRAM TO PRINT ADDRESS OF A VARIABLE USING POINTERS
 ```C
 #include <stdio.h>
 void main()
