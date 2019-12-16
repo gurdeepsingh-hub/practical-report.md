@@ -963,13 +963,15 @@ void main()
 }```
 
 ## OUTPUT
+```
+C
 `using variable n:`  
 `value of n:100`  
  `address of n 804324724`  
 `using pointer n:`   
 `value of n:100`  
  `address of n 804324724`  
- ```C
+ ```
 # PROGRAM No 30:-PROGRAM TO PRINT ADDRESS OF A VARIABLE USING POINTERS
 ```C
 #include <stdio.h>
@@ -988,10 +990,11 @@ void main()
        for (i=0;i<=9;i++)
        printf("%08x\t %03d\n",(p+i),*(p+i));
 }
-```C
+```
 
 ## OUTPUT
-```C
+```
+C
 `enter the elements of array`  
 `enter elements 01:12`  
 `enter elements 02:13`  
@@ -1015,7 +1018,7 @@ void main()
 `85c1752c         012`  
 `85c17530         017`  
 `85c17534         016`  
-```C
+```
  
  
 
