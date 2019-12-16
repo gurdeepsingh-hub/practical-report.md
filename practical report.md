@@ -963,8 +963,7 @@ void main()
 }```
 
 ## OUTPUT
-```
-C
+```C
 `using variable n:`  
 `value of n:100`  
  `address of n 804324724`  
